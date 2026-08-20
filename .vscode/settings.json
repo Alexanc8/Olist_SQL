@@ -3,12 +3,12 @@
         {
             "ssh": "Disabled",
             "previewLimit": 50,
-            "server": "db.iyibtfvuobwcsyuhaijd.supabase.co",
+            "server": "aws-0-us-east-2.pooler.supabase.com",
             "port": 5432,
             "driver": "PostgreSQL",
             "name": "My_SQL_Project",
             "database": "postgres",
-            "username": "postgres"
+            "username": "postgres.iyibtfvuobwcsyuhaijd"
         }
     ]
 }
