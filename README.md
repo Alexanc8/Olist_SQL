@@ -1,4 +1,3 @@
-# Olist_SQL
 # Olist E-Commerce SQL Analysis
  
 SQL portfolio project analyzing the [Olist Brazilian E-Commerce dataset](https://www.kaggle.com/olistbr/brazilian-ecommerce) using PostgreSQL (Supabase).
